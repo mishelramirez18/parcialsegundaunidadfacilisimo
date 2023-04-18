@@ -2,3 +2,6 @@ nombre completo:karla mishel barrientos ramirez
 grado:5to bachillerato en computacion
 la carrera que seguire en la u: psicologia 
 motivo por seguir en la universidad:podser ayudar a la gente mentalmente
+¿que es html?
+es un lenguaje de programacion y de mercado que define la estructura de tu  contenido
+sirve para agrandar una palabara o archiar la letra
